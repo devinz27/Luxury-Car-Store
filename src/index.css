@@ -141,3 +141,17 @@ footer {
 .product-price button:hover {
   filter: invert(100%)
 }
+
+
+.filter {
+  display: flex;
+  justify-content: space-between;
+  padding: 1%;
+  margin: 1%;
+  border-bottom: 0.1rem solid grey;
+}
+
+.filter-sort select {
+  background-color: rgb(236, 236, 236);
+  margin-left: 0.5rem;
+}
