@@ -1,12 +1,13 @@
-import React from 'react';
-
+import React from "react";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-       
+    <div class="container">
+      <header>
+        <a href="/">React Shopping List</a>
       </header>
+      <main>Product List</main>
+      <footer>Footer</footer>
     </div>
   );
 }
