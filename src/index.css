@@ -11,7 +11,7 @@ body,
 body,
 input,
 select,
-button, 
+button,
 textarea {
   font-family: Helvetica, Arial, sans-serif;
 }
@@ -27,7 +27,7 @@ textarea {
   height: 100%;
 }
 
-a{
+a {
   text-decoration: none;
 }
 
@@ -110,7 +110,7 @@ footer {
 
 .product-price {
   display: flex;
-  
+
   justify-content: space-between;
   align-items: center;
 }
@@ -139,9 +139,8 @@ footer {
 }
 
 .product-price button:hover {
-  filter: invert(100%)
+  filter: invert(100%);
 }
-
 
 .filter {
   display: flex;
@@ -154,4 +153,53 @@ footer {
 .filter-sort select {
   background-color: rgb(236, 236, 236);
   margin-left: 0.5rem;
+}
+
+.cart {
+  padding: 1%;
+  margin: 1%;
+  display: flex;
+}
+
+.cart-header {
+  border-bottom: 0.1rem solid grey;
+}
+
+.cart-items {
+  padding: 0;
+  width: 100%;
+  list-style-type: none;
+}
+
+.cart-items img {
+  width: 5rem;
+}
+
+.cart-items li {
+  display: flex;
+}
+
+.cart-items li div {
+  padding: 0.5rem;
+}
+
+.cart-items li div:last-child {
+  flex: 1;
+}
+
+.right {
+  text-align: right;
+}
+
+.total {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+
+.total > div,
+.total > button {
+  flex: 1;
+  font-size: 1.5rem;
 }
