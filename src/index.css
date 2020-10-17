@@ -203,3 +203,57 @@ footer {
   flex: 1;
   font-size: 1.5rem;
 }
+
+.form-container {
+  width: 100%;
+  padding: 0;
+  list-style-type: none;
+}
+
+.form-container li {
+  display: flex;
+  flex-direction: column;
+  padding: 1rem;
+}
+
+input {
+  padding: 1rem;
+  width: 25rem;
+  border: 0.1rem solid black;
+}
+
+.product-details {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  max-height: 96vh;
+}
+
+.product-details img {
+  max-height: 100vh;
+  max-width: 46rem;
+  margin: 0 auto;
+}
+
+.product-details-description {
+  flex: 1 1;
+  margin: 1rem;
+}
+
+.close-modal {
+  position: absolute;
+  right: 1rem;
+  top: 2.5rem;
+  z-index: 2;
+  cursor: pointer;
+  padding: 1rem;
+  margin-right: 1rem;
+}
+
+.product-price div {
+  font-size: 3rem;
+}
+
+.product-price button {
+  font-size: 2rem;
+}
