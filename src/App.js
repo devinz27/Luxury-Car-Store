@@ -4,6 +4,7 @@ import Filter from "./components/Filter";
 import Products from "./components/Products";
 import data from "./data.json";
 
+
 class App extends React.Component {
   constructor() {
     super();
@@ -69,7 +70,7 @@ class App extends React.Component {
     return (
       <div className="container">
         <header>
-          <a href="/">React Shopping List</a>
+          <a href="/">Luxury Car Store</a>
         </header>
         <main>
           <div className="content">
@@ -93,7 +94,7 @@ class App extends React.Component {
             </div>
           </div>
         </main>
-        <footer>Footer</footer>
+        <footer>Thank you for Checking out my Store! </footer>
       </div>
     );
   }

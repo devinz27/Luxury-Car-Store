@@ -52,7 +52,7 @@ export default class Cart extends Component {
                       <div className="right">
                         ${item.price} x {item.count} {"  "}
                         <button
-                          className="button"
+                          className="button-remove"
                           onClick={() => this.props.removeFromCart(item)}
                         >
                           Remove
