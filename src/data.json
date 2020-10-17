@@ -2,14 +2,14 @@
   "products": [
     {
       "id": "car1",
-      "image": "/images/lamborghini.jpg",
+      "image": "/public/images/lamborghini.jpg",
       "title": "Lamborghini", 
       "description": "Lamborghini Sports car ",
       "price": 250000
     },
     {
       "id": "car2",
-      "image": "/images/ferrari.jpg",
+      "image": "/public/images/ferrari.jpg",
       "title": "Ferrari",
       "description": "Ferrari Sports car ",
       "price": 230000
