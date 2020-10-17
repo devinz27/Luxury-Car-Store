@@ -2,7 +2,7 @@
   "products": [
     {
       "id": "car1",
-      "image": "./images/lamborghini.jpg",
+      "image": "../public/images/lamborghini.jpg",
       "title": "Lamborghini", 
       "description": "Lamborghini Sports car ",
       "price": 250000
