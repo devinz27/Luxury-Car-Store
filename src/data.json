@@ -2,35 +2,35 @@
   "products": [
     {
       "id": "car1",
-      "image": "/public/images/lamborghini.jpg",
+      "image": "./images/lamborghini.jpg",
       "title": "Lamborghini", 
       "description": "Lamborghini Sports car ",
       "price": 250000
     },
     {
       "id": "car2",
-      "image": "/public/images/ferrari.jpg",
+      "image": "./images/ferrari.jpg",
       "title": "Ferrari",
       "description": "Ferrari Sports car ",
       "price": 230000
     },
     {
       "id": "car3",
-      "image": "/images/mercedes.jpg",
+      "image": "./images/mercedes.jpg",
       "title": "Mercedes Benz",
       "description": "Mercedes Sports car ",
       "price": 125000
     },
     {
       "id": "car4",
-      "image": "/images/bmw.jpg",
+      "image": "./images/bmw.jpg",
       "title": "BMW",
       "description": "BMW Sports car ",
       "price": 90000
     },
     {
       "id": "car5",
-      "image": "/images/audi.jpg",
+      "image": "./images/audi.jpg",
       "title": "Audi",
       "description": "audi Sports car ",
       "price": 125000
