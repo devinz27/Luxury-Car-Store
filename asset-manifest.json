@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Luxury-Car-Store/static/css/main.1d3c3f58.chunk.css",
+    "main.js": "/Luxury-Car-Store/static/js/main.c10cc0fc.chunk.js",
+    "main.js.map": "/Luxury-Car-Store/static/js/main.c10cc0fc.chunk.js.map",
+    "runtime-main.js": "/Luxury-Car-Store/static/js/runtime-main.9ac9bcd1.js",
+    "runtime-main.js.map": "/Luxury-Car-Store/static/js/runtime-main.9ac9bcd1.js.map",
+    "static/js/2.907f0f95.chunk.js": "/Luxury-Car-Store/static/js/2.907f0f95.chunk.js",
+    "static/js/2.907f0f95.chunk.js.map": "/Luxury-Car-Store/static/js/2.907f0f95.chunk.js.map",
+    "index.html": "/Luxury-Car-Store/index.html",
+    "precache-manifest.dacbf38ee6f22450c03e19e1ad2a8e0b.js": "/Luxury-Car-Store/precache-manifest.dacbf38ee6f22450c03e19e1ad2a8e0b.js",
+    "service-worker.js": "/Luxury-Car-Store/service-worker.js",
+    "static/css/main.1d3c3f58.chunk.css.map": "/Luxury-Car-Store/static/css/main.1d3c3f58.chunk.css.map",
+    "static/js/2.907f0f95.chunk.js.LICENSE.txt": "/Luxury-Car-Store/static/js/2.907f0f95.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9ac9bcd1.js",
+    "static/js/2.907f0f95.chunk.js",
+    "static/css/main.1d3c3f58.chunk.css",
+    "static/js/main.c10cc0fc.chunk.js"
+  ]
+}
